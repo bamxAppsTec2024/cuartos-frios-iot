@@ -27,8 +27,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "FERP";
-char pass[] = "Paleta2023";
+char ssid[] = "SSID";
+char pass[] = "Contraseña";
 //char ssid[] = "INFINITUM9756_2.4";
 //char pass[] = "1365077101";
 DHT dht(DHTPIN, DHTTYPE);
